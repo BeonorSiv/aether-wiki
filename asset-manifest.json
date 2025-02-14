@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a7488ce.css",
-    "main.js": "/static/js/main.ef0e78c4.js",
-    "static/js/453.2d6bc0a5.chunk.js": "/static/js/453.2d6bc0a5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.1a7488ce.css.map": "/static/css/main.1a7488ce.css.map",
-    "main.ef0e78c4.js.map": "/static/js/main.ef0e78c4.js.map",
-    "453.2d6bc0a5.chunk.js.map": "/static/js/453.2d6bc0a5.chunk.js.map"
+    "main.css": "/aether-wiki/static/css/main.1a7488ce.css",
+    "main.js": "/aether-wiki/static/js/main.efe0456c.js",
+    "static/js/453.2d6bc0a5.chunk.js": "/aether-wiki/static/js/453.2d6bc0a5.chunk.js",
+    "static/media/logo.svg": "/aether-wiki/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aether-wiki/index.html",
+    "main.1a7488ce.css.map": "/aether-wiki/static/css/main.1a7488ce.css.map",
+    "main.efe0456c.js.map": "/aether-wiki/static/js/main.efe0456c.js.map",
+    "453.2d6bc0a5.chunk.js.map": "/aether-wiki/static/js/453.2d6bc0a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7488ce.css",
-    "static/js/main.ef0e78c4.js"
+    "static/js/main.efe0456c.js"
   ]
 }
